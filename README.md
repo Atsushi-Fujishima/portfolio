@@ -1,5 +1,5 @@
 # portfolio-practice2
-ポートフォリオ練習
+ポートフォリオ練習 - 制作中
 
 ## License
 
