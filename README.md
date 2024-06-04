@@ -1,5 +1,5 @@
 # portfolio-practice2
-ポートフォリオ練習 - 制作中
+!(Images\Portfolio_Image_1.png)
 
 ## License
 
