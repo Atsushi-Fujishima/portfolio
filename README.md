@@ -1,9 +1,19 @@
 # portfolio-practice2
 <img width = "1000" src="Images/Portfolio_Image_1.png">
 
-## [制作したゲーム 1]
+## 【VR Game Project】
 
 <img width = "800" src="Images/BAB_Title_Picture.png">
+
+### 情報
+* タイトル : BAB
+* ジャンル : VR間違い探しアクションホラー
+* 人数 : シングルプレイ
+* プラットフォーム : SteamVR
+* 制作期間 : 2022年7月 ~ 2024年5月
+* 制作環境 : Windows11, Unity
+* 制作人数 : 2人 (コアメンバー)
+* 役職 : プログラマー、ゲームデザイナー 
 
 ## License
 
