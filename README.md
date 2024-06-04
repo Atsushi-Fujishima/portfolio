@@ -1,4 +1,4 @@
-# portfolio-practice2
+# 【ポートフォリオ】
 <img width = "1000" src="Images/Portfolio_Image_1.png">
 
 ## 【VR Game Project】
