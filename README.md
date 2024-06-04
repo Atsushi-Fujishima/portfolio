@@ -6,6 +6,7 @@
 <img width = "800" src="Images/BAB_Title_Picture.png">
 
 ### 情報
+* [販売サイト](https://store.steampowered.com/app/2919580/BAB/)
 * タイトル : BAB
 * ジャンル : VR間違い探しアクションホラー
 * 人数 : シングルプレイ
