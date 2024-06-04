@@ -1,5 +1,5 @@
 # portfolio-practice2
-![title](Images\Portfolio_Image_1.png)
+<img width = "1000" src="Images/Portfolio_Image_1.png">
 
 ## License
 
