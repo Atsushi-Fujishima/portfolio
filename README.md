@@ -35,7 +35,10 @@
 * 制作環境 : Windows11, Unity
 * 担当 : プログラミング全般、ゲームデザイン 
 
-## License
+### ハイハイ
+<img width = "600" src="Images/Portfolio_Haihai.gif">
+
+## 【License】
 
 ### Code
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
