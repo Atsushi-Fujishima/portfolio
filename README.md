@@ -102,6 +102,9 @@ none
 <img width = "600" src="Images/Portfolio_Interaction.gif">
 
 #### 「触る」と「近くで見る」
+BABのインタラクションにユニークさはありません。//kokokara
+
+
 
 
 
