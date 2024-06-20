@@ -205,7 +205,7 @@ none
 
 生成したシェーダーコード
 
-<img width = "600" src="Images/CameraEffect_shadercode_15.png">
+<img width = "300" src="Images/CameraEffect_shadercode_15.png">
 
 作成したシェーダーグラフ
 
