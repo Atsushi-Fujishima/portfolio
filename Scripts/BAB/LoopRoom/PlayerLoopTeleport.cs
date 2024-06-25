@@ -1,0 +1,26 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerLoopTeleport : MonoBehaviour
+{
+    [SerializeField] Transform playerTransform;
+    [SerializeField] Transform[] handTransforms;
+    [SerializeField] Transform m_TeleportTarget;
+    public Vector3 setRotation = Vector3.one;
+
+    public void PlayerCharacterTeleport()
+    {
+        playerTransform.position = m_TeleportTarget.position;
+        playerTransform.localEulerAngles = setRotation;
+        foreach (Transform hand in handTransforms)
+        {
+            hand.position = m_TeleportTarget.position;
+        }
+    }
+
+    public void SetLoopPoint(Transform teleportPoint)
+    {
+        m_TeleportTarget = teleportPoint;
+    }
+}
