@@ -22,7 +22,7 @@
 
 <img width = "800" src="Images/BAB_Title_Picture.png">
 
-### -情報-
+### ＜情報＞
 * タイトル : BAB
 * [販売サイト(Steam)](https://store.steampowered.com/app/2919580/BAB/)
 * ジャンル : VR間違い探しアクションホラー
