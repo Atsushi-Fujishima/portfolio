@@ -93,7 +93,7 @@
 
 [スクリプトの一部抜粋]
 
-<img width = "Images/BAB_PlayerTriggerEvent.png">
+<img width = "600" src="Images/BAB_PlayerTriggerEvent.png">
 
 -----
 ## 【Push Battle】
@@ -134,14 +134,11 @@
 
 [スクリプトの一部抜粋]
 
-<img width = "500" src="Images/PushBattle_smash.png">
+<img width = "600" src="Images/PushBattle_smash.png">
 
-#### 4.2 マルチプレイの実装
-* 私はPUN2(Photon Unity Networking 2)を使用しマルチプレイを実装しました。実装方法は公開されているチュートリアルと公式リファレンスを通じて学び始めました。
-* 以下はPUN2環境での内容です。他のサービスの場合は異なる場合がありますので、ご了承ください。
-
-#### 4.2.1 ゲームの不整合
-* ゲームリリース後に操作するキャラクターが消えたり、出現したりを繰り返す問題が発生しました。そして、これは別のプレイヤーからは確認できないという内容でした。
+#### 4.2 ゲームの不整合
+* 私はPUN2(Photon Unity Networking 2)を使用しマルチプレイを実装しました。
+* ゲームリリース後に操作するキャラクターが消えたり、出現したりを繰り返す問題が発生し、これは別のプレイヤーからは確認できないという内容でした。
 * 私はいくつかの理由から、同期処理に問題があり、その結果、問題である事象が発生しているのではないかと想定しました。
 
 **"秒間メッセージ数を減らす : 解決策を決める"**
@@ -165,11 +162,11 @@
 
 [スクリプトの一部抜粋]
 
-<img width = "500" src="Images/Multiplay_4.png">
+<img width = "600" src="Images/Multiplay_4.png">
 
 [スクリプトの一部抜粋]
 
-<img width = "500" src="Images/Multiplay_6.png">
+<img width = "600" src="Images/Multiplay_6.png">
 
 * 約1カ月の期間を費やすことにより、秒間メッセージ数を1392から240まで減らすことに成功しました。
 * 最終的に、友人に協力していただき、問題は発生していないのかを検証を行い、問題はなく、状態を一致させることができました。
